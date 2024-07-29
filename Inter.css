@@ -101,6 +101,13 @@ section p{
 .contact-details a:hover {
     color: #0056b3;
 }
+.whatsapp {
+    
+    box-sizing: border-box;
+    height: 200px;
+    width: 100px;
+    position: fixed;
+}
 
 footer {
     background-color: rgba(34, 34, 34, 0.9);
